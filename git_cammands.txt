@@ -1,0 +1,34 @@
+                    GIT COMMANDS
+
+git init
+    > To initialize an empty repository or in simple to start a new git repository.
+
+git add
+    > To add files into the staging area from where you can dicide what to commit or what not to commit.
+
+git add . 
+    > To add all the files from the current directory to the staging area.
+
+git commit -m ""
+    > To commit the file in the repository.
+
+git branch
+    > To check how many branches are there in the repository.
+
+git branch NameOfTheBranch
+    > To create a new branch in the repository.
+
+git checkout NameOfTheBranch
+    > To Change branch from current branch to another branch in the repository.
+
+git log
+    > To check all the activities in the repository.
+
+git status
+    > To get the status of the repository.
+
+git rm NameOfTheFile
+    > To remove a file from the staging area.
+
+                            Author: Nitesh Bhagat
+                            email: nitshbhgt1998@gmail.com

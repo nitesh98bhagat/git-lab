@@ -1,5 +1,8 @@
-                    GIT COMMANDS
-			master
+GIT COMMANDS
+(branch: master)
+------------------------
+|     COMMANDS         |
+------------------------
 
 git init
     > To initialize an empty repository or in simple to start a new git repository.
@@ -36,7 +39,13 @@ git log --oneline
 
 git branch -d NameOfTheBranch
     > To delete a branch from the repository.
+    > This command is only going to work if the branch is merged into the master one.
     
+git branch -D NameOfTheBranch
+    > To delete a branch from the repository.
 
-                                                                                    Author: Nitesh Bhagat
-                                                                                    email: nitshbhgt1998@gmail.com
+-------------------------------------------------------------------
+Author: Nitesh Bhagat
+Roll:   DevExpert
+Email: nitshbhgt1998@gmail.com
+-------------------------------------------------------------------

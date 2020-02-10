@@ -61,9 +61,13 @@ git checkout -b NameOfTheBranch
     > To create a new branch and switch it to the newly created branch.
     > this way we don't have to give two seperate commands such as [git branch NameOfTheBranch ] & [git checkout NameOfTheBranch]
 
+git push URL NameOfTheBranch
+    > To upload a repository in the gitHub.
+    > You must type the branch you eant to push(upload) it to cloud.
+    > Now you can also substitute the URL with an alias
 
-MUMBO JUMBO IN THE BETA BRANCH.
-HELLO
+git remote add Choose-a-Word-to-make-an-alias
+    > to substitute long URL to a single word, so that pushing operation can be easily done
 
 -------------------------------------------------------------------
 Author: Ralph

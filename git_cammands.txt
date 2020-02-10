@@ -30,5 +30,9 @@ git status
 git rm NameOfTheFile
     > To remove a file from the staging area.
 
+git log --oneline
+    > To get the concise look of commit history
+    
+
                                                                                     Author: Nitesh Bhagat
                                                                                     email: nitshbhgt1998@gmail.com

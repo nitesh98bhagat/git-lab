@@ -1,5 +1,5 @@
 GIT COMMANDS
-(branch: master)
+(branch: devChannel)
 ------------------------
 |     COMMANDS         |
 ------------------------
@@ -45,7 +45,7 @@ git branch -D NameOfTheBranch
     > To delete a branch from the repository.
 
 -------------------------------------------------------------------
-Author: Nitesh Bhagat
+Author: Nikubh
 Roll:   DevExpert
-Email: nitshbhgt1998@gmail.com
+Email:  nikubh1998@gmail.com
 -------------------------------------------------------------------

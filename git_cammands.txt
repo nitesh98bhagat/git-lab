@@ -29,6 +29,7 @@ git reset UniqueCommitID
     >
 
 git branch
+    > To check in which branch are you in right now. 
     > To check how many branches are there in the repository.
 
 git branch NameOfTheBranch
@@ -55,6 +56,10 @@ git branch -d NameOfTheBranch
     
 git branch -D NameOfTheBranch
     > To delete a branch from the repository.
+
+git checkout -b NameOfTheBranch
+    > To create a new branch and switch it to the newly created branch.
+    > this way we don't have to give two seperate commands such as [git branch NameOfTheBranch ] & [git checkout NameOfTheBranch]
 
 -------------------------------------------------------------------
 Author: Nikubh

@@ -1,4 +1,5 @@
                     GIT COMMANDS
+			master
 
 git init
     > To initialize an empty repository or in simple to start a new git repository.

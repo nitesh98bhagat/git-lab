@@ -70,7 +70,7 @@ git remote add Choose-a-Word-to-make-an-alias
     > to substitute long URL to a single word, so that pushing operation can be easily done
 
 -------------------------------------------------------------------
-Author: Ralph
+Author: Nitesh Bhagat
 Roll:   DevExpert
 Email: nitshbhgt1998@gmail.com
 Branch: master

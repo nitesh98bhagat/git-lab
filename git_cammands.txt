@@ -30,5 +30,5 @@ git status
 git rm NameOfTheFile
     > To remove a file from the staging area.
 
-                            Author: Nitesh Bhagat
-                            email: nitshbhgt1998@gmail.com
+                                                                                    Author: Nitesh Bhagat
+                                                                                    email: nitshbhgt1998@gmail.com

@@ -57,7 +57,8 @@ git branch -D NameOfTheBranch
     > To delete a branch from the repository.
 
 -------------------------------------------------------------------
-Author: Nikubh
+Author: Ralph
 Roll:   DevExpert
-Email:  nikubh1998@gmail.com
+Email:  sbhmjai19981998@gmail.com
+Branch: devChannel
 -------------------------------------------------------------------

@@ -13,8 +13,19 @@ git add
 git add . 
     > To add all the files from the current directory to the staging area.
 
-git commit -m ""
+git commit -m "whatever you want to say about the commit, but be discriptive"
     > To commit the file in the repository.
+
+git checkout UniqueCommitID
+    > To rollback to a previous commit 
+    > you need to provide a UniqueCommitID presented in the commit history. 
+    > this command is only for READ-ONLY method. You can't edit file with this method. 
+
+git revert UniqueCommitID
+    > 
+
+git reset UniqueCommitID
+    >
 
 git branch
     > To check how many branches are there in the repository.

@@ -32,6 +32,9 @@ git rm NameOfTheFile
 
 git log --oneline
     > To get the concise look of commit history
+
+git branch -d NameOfTheBranch
+    > To delete a branch from the repository.
     
 
                                                                                     Author: Nitesh Bhagat

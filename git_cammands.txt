@@ -4,18 +4,31 @@ GIT COMMANDS
 |     COMMANDS         |
 ------------------------
 
+# INITIALIZE GIT 
 git init
     > To initialize an empty repository or in simple to start a new git repository.
 
+
+
+# ADD FILES TO STAGNG AREA
 git add
     > To add files into the staging area from where you can dicide what to commit or what not to commit.
 
+
+
+# ADD ALL FILES IN ONE GO TO THE STAGING AREA
 git add . 
     > To add all the files from the current directory to the staging area.
 
+
+
+# COMMIT TO THE REPOSITORY WITH A DESCRIPTIVE MESSAGE 
 git commit -m "whatever you want to say about the commit, but be discriptive"
     > To commit the file in the repository.
 
+
+
+# cHECKOUT TO A OLDER COMMIT 
 git checkout UniqueCommitID
     > To rollback to a previous commit 
     > you need to provide a UniqueCommitID presented in the commit history. 

@@ -1,5 +1,5 @@
 GIT COMMANDS
-(branch: devChannel)
+(branch: beta)
 ------------------------
 |     COMMANDS         |
 ------------------------
@@ -65,4 +65,5 @@ git checkout -b NameOfTheBranch
 Author: Nikubh
 Roll:   DevExpert
 Email:  nikubh1998@gmail.com
+Branch: BETA
 -------------------------------------------------------------------
